@@ -1,4 +1,4 @@
-name,quadrant,ring (review),isNew,description
+name,quadrant,ring,isNew,description
 Terraform,Infrastructure,Adopt,TRUE,
 Docker,Infrastructure,Adopt,TRUE,
 Ansible,Infrastructure,Adopt,FALSE,
